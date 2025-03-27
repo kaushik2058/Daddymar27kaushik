@@ -2,20 +2,28 @@
 
 #EXTINF:-1 tvg-id="Astro.Cricket.my" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/astro-cricket.png" group-title="MALAYSIA",Astro Cricket
 https://zekonew.koskoros.ru/zeko/premium370/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
 #EXTINF:-1 tvg-id="Willow.Cricket.HDTV.(WILLOWHD).us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/willow-cricket-us.png" group-title="UNITED STATES",Willow Cricket
 https://zekonew.koskoros.ru/zeko/premium346/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
 #EXTINF:-1 tvg-id="Willow.Xtra.us" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/willow-xtra-us.png" group-title="UNITED STATES",Willow XTRA
 https://zekonew.koskoros.ru/zeko/premium598/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
 #EXTINF:-1 tvg-id="SkySp.Cricket.uk" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/sky-sports-cricket-uk.png" group-title="UNITED KINGDOM",Sky Sports Cricket
 https://dokko1new.koskoros.ru/dokko1/premium65/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
 #EXTINF:-1 tvg-id="FoxCricket.au" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/fox-cricket.png" group-title="AUSTRALIA",Fox Cricket
 https://ddy6new.koskoros.ru/ddy6/premium369/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/supersport-cricket.png" group-title="SOUTH AFRICA",SuperSport Cricket
 https://dokko1new.koskoros.ru/dokko1/premium368/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/ten-sports-pk.png" group-title="PAKISTAN",Ten Sports PK
 https://ddy6new.koskoros.ru/ddy6/premium741/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
 #EXTINF:-1 tvg-id="test" tvg-logo="https://raw.githubusercontent.com/pigzillaaaaa/iptv-scraper/refs/heads/main/logos/a-sport-pk.png" group-title="PAKISTAN",A Sport PK
 https://ddy6new.koskoros.ru/ddy6/premium269/mono.m3u8|Referer=https%3A%2F%2Fchimeracuddleplay.cfd%2F&User-Agent=Mozilla%2F5.0+%28iPhone%3B+CPU+iPhone+OS+17_7+like+Mac+OS+X%29+AppleWebKit%2F605.1.15+%28KHTML%2C+like+Gecko%29+Version%2F18.0+Mobile%2F15E148+Safari%2F604.1&Origin=https%3A%2F%2Fchimeracuddleplay.cfd
+
 #EXTINF:-1 tvg-id="PTV.Sports.pk" tvg-name="PTV Sports" tvg-logo="https://i.imgur.com/3gcbW9w.png" group-title="All Channels",PTV Sports
 https://new1daddycdn.nayeem-parvez.workers.dev/450.m3u8
 
